@@ -1,0 +1,1 @@
+### This code is associated with the paper from Genoves et al., "Coopted temporal patterning governs cellular hierarchy, heterogeneity and metabolism in Drosophila neuroblast tumors". eLife, 2019. http://dx.doi.org/10.7554/eLife.50375
